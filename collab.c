@@ -24,7 +24,7 @@ void crober31_hkhan91() {
 }
 int main()
 {
-  
+    printf("Hello world");
     
     crober31_hkhan91();
     
